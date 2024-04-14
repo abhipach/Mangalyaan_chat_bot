@@ -14,6 +14,8 @@ load_dotenv()
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
+GOOGLE_API_KEY="AIzaSyD-6LtURb0O14Sb-dw6sDxy3S9m0T9pI6M"
+
 
 def read_csv_file(csv_file):
     try:

@@ -139,9 +139,9 @@ def main():
 
 # Define a dictionary to map customer IDs to customer names
     customer_names = {
-                "C3452": "shayan",
-                "C3454":"abhishek",
-                "C3456":"sharan",
+                "C3452": "Shayan",
+                "C3454":"Abhishek",
+                "C3456":"Sharan",
                 
             };
 

@@ -60,7 +60,7 @@ def get_conversational_chain(query,cid):
 
 def clear_chat_history():
     st.session_state.messages = [
-        {"role": "assistant", "content": "You are good to go from beginning :)   Ask me Questions...."}]
+        {"role": "assistant", "content": "You are good to go from beginning :)  How can I assist you today "}]
 
 
 def user_input(user_question,cid):
